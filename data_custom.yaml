@@ -1,0 +1,6 @@
+train: /Users/jonathanchoi/Desktop/GitHub Projects/particle_detector/yolo_data/train
+val: /Users/jonathanchoi/Desktop/GitHub Projects/particle_detector/yolo_data/val
+
+nc: 2
+
+classes: ['hole_empty', 'hole_filled']
